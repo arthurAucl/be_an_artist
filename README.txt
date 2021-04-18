@@ -1,10 +1,22 @@
-EXTENSIONS
+#Environment
 
-Possibilité de dessiner :
-- Des carrées, 
-- Des rectangles, 
-- Des polygones (3 à 15 sommets avec le meme spinner que pour le nombre de sommet de l'étoile)
+Check the Java version 
+'''
+java -version 
+'''
 
-Possibilité d'effacer la dernière forme
+Check the JavaFX version 
+'''
+javac -version 
+'''
+You must have a 11.X.X version or sup.
 
-Design
+
+Install Open Web Start
+
+Check the Open Web Start version
+'''
+javaws -version
+'''
+
+You must have a 1.X.X version or sup.
